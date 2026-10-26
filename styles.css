@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(244, 222, 227);
+}
+
+.main-title{
+    text-align: center;
+    font-size: 64px;
+    font-family: 'Lucida Handwriting', 'Cursive';
+    border-style: solid;
+    border-color:lightpink;
+    background-color: whitesmoke;
+    margin: 60px 250px;
+    border-width: 15px;
+}
