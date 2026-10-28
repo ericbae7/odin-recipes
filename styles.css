@@ -2,6 +2,20 @@ body{
     background-color:rgb(244, 222, 227);
 }
 
+ul{
+    text-align: center;
+    background-color: lightpink;
+    margin: 100px 450px;
+    padding: 12px;
+}
+
+ul li{
+    margin: 8px;
+    font-size: 30px;
+    background: whitesmoke;
+    font-family: 'Lucida Handwriting', 'Cursive';
+}
+
 .main-title{
     text-align: center;
     font-size: 64px;
