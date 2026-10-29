@@ -28,6 +28,18 @@ ul li{
     border-width: 15px;
 }
 
+.mini-title{
+    text-align:center;
+    font-size: 35px;
+    font-family: 'Lucida Handwriting', 'Cursive';
+    border-style: solid;
+    border-color:lightpink;
+    background-color: whitesmoke;
+    margin: 60px 600px;
+    border-width: 15px;
+    padding:12px;
+}
+
 .image-container{
     text-align: center;
 }
