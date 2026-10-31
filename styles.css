@@ -2,15 +2,39 @@ body{
     background-color:rgb(244, 222, 227);
 }
 
+p{
+    background-color: whitesmoke;
+    font-size: 30px;
+    padding:8px;
+    border-color: lightpink;
+    border-style:solid;
+    border-width: 12px;
+}
 
 ul{
     text-align: center;
     background-color: lightpink;
-    margin: 100px 450px;
+    margin: 60px 450px;
     padding: 12px;
+    margin-bottom: 100px;
 }
 
 ul li{
+    margin: 8px;
+    font-size: 30px;
+    background: whitesmoke;
+    font-family: 'Lucida Handwriting', 'Cursive';
+}
+
+ol{
+    text-align: center;
+    background-color: lightpink;
+    margin: 60px 450px;
+    padding: 12px;
+    margin-bottom: 100px;
+}
+
+ol li{
     margin: 8px;
     font-size: 30px;
     background: whitesmoke;
@@ -35,11 +59,17 @@ ul li{
     border-style: solid;
     border-color:lightpink;
     background-color: whitesmoke;
-    margin: 60px 600px;
+    margin: 50px 600px;
     border-width: 15px;
     padding:12px;
 }
 
 .image-container{
     text-align: center;
+}
+
+.text-container{
+    width:50%;
+    margin: 0 auto;
+    margin-bottom: 100px;
 }
